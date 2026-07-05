@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # EduAI – Smart Learning Assistant
+link:(https://eduai-chatbox.vercel.app/dashboard.html)
 
 EduAI is a premium, modern, responsive full-stack AI-powered educational web application with a clean, high-fidelity user interface inspired by ChatGPT, Google Gemini, and Notion.
 
