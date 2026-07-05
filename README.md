@@ -85,5 +85,4 @@ The REST API server will run on [http://localhost:8080](http://localhost:8080).
   ```
   If not set, the backend will automatically fallback to the rule-based mock AI service.
 =======
-# EDUAI_CHATBOX
->>>>>>> 3b3ffca38201b458b13a2a8ed22c5748eda8cde1
+>>>>>>> 
